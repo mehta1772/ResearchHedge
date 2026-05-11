@@ -1,6 +1,6 @@
 #  ResearchHedge — Multi-Agent AI Research System with RAG
 
-ResearchMind is an advanced **multi-agent AI system** that performs autonomous research by combining **real-time web search, web scraping, and Retrieval-Augmented Generation (RAG)**.
+ResearchHedge is an advanced **multi-agent AI system** that performs autonomous research by combining **real-time web search, web scraping, and Retrieval-Augmented Generation (RAG)**.
 
 It mimics a human research workflow — searching, reading, synthesizing, and critically evaluating — but enhances it with **context-aware generation using vector retrieval**.
 
